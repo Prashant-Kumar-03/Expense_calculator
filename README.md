@@ -6,7 +6,8 @@ This repository provides a simple expense calculator that computes costs **annua
 
 1️⃣ **Download** the `index.html` file.  
 2️⃣ **Open** it in **Google Chrome** (or any modern browser).  
-3️⃣ **Or** use the link below to access it online.  
+3️⃣ **Or** access it online:  
+   👉 [Expense Calculator Live](https://expense-calculator-git-main-prashant-kumars-projects-f534f540.vercel.app)  
 
 ## 🛠 Applications  
 
