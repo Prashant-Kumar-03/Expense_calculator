@@ -1,12 +1,14 @@
-# Expense_calculator
-This repository calculates expenses annually or monthly based on fixed weekday prices.
-steps 1: Download this index.html 
-steps 2: open it with chrome
-or you can open it with the given below link 
+# 📊 Expense Calculator  
 
+This repository provides a simple expense calculator that computes costs **annually** or **monthly** based on fixed weekday prices.  
 
+## 🚀 How to Use  
 
-application:
-this can be used to calculate 
-        <*newspaper expense calculator*> which has mostly fixed price for every weekdays..
-        can be used for anything which has a price fixed for weekdays
+1️⃣ **Download** the `index.html` file.  
+2️⃣ **Open** it in **Google Chrome** (or any modern browser).  
+3️⃣ **Or** use the link below to access it online.  
+
+## 🛠 Applications  
+
+- 📅 **Newspaper Expense Calculator** – Ideal for newspapers with fixed prices for weekdays.  
+- 💰 **Other Use Cases** – Can be adapted for any recurring expenses that follow a fixed weekday pricing model.  
